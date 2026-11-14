@@ -1,0 +1,4 @@
+# Dataset files are large and licensed separately. Download them from Kaggle (see README).
+*.csv
+.ipynb_checkpoints/
+__pycache__/
